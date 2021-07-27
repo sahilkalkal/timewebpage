@@ -1,0 +1,15 @@
+center{
+    margin-top: 10%;
+    /* font-size: 60px; */
+    font-family: cursive;
+    /* color: black; */
+}
+#hour {
+    font-size: 100px;
+}
+
+#greet{
+    font-size: 50px;
+}
+
+/*  */
